@@ -27324,6 +27324,9 @@ footer.st_default_footer_area .st_fotter_menu.text-polar-dib ul li a,
 * @version: 1.0
 *
 * ------------------------------------------------------------------------- */
+.containerr{
+margin-left: 109px;
+}
 .st_video_bg {
   border-radius: 10px;
   width: 828px;
