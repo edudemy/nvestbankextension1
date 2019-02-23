@@ -2489,8 +2489,8 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-danger {
-  color: #182541;
-  background-color: #fff;
+  color: #fff;
+  background-color: #182541;
   border-color: #fff;
 }
 
