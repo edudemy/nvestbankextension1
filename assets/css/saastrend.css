@@ -27324,9 +27324,7 @@ footer.st_default_footer_area .st_fotter_menu.text-polar-dib ul li a,
 * @version: 1.0
 *
 * ------------------------------------------------------------------------- */
-.containerr{
-margin-left: 109px;
-}
+
 .st_video_bg {
   border-radius: 10px;
   width: 828px;
@@ -32488,6 +32486,12 @@ ul.st-pricing-list.st-bounce-invert ul.st-pricing-wrapper .is-selected {
   background-color: #F1FBFC;
 }
 
+
+@media screen and (max-device-width: 2500px) and (min-device-width: 1280px){
+.st_default_content img {
+    margin-top: -548px !important;
+}
+}
 .st_default_content img {
   margin: 0;
   margin-top: -548px;
