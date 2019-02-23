@@ -32487,15 +32487,12 @@ ul.st-pricing-list.st-bounce-invert ul.st-pricing-wrapper .is-selected {
 }
 
 
-@media screen and (max-device-width: 2500px) and (min-device-width: 1280px){
+@media screen and (min-width: 992px) and (max-width:3000px){
 .st_default_content img {
-    margin-top: -548px !important;
+    margin-top: -548px !important; 
 }
 }
-.st_default_content img {
-  margin: 0;
-  margin-top: -548px;
-}
+
 
 .st_default_content .st_default_content_icon {
   width: 60px;
