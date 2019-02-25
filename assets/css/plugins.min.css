@@ -2496,8 +2496,8 @@ a.btn.disabled,fieldset:disabled a.btn {
 
 .btn-danger:hover {
   color: #fff;
-  background-color: #4CD0E5;
-  border-color: #4CD0E5;
+  background-color: #fff;
+  border-color: #fff;
 }
 
 .btn-danger.focus,.btn-danger:focus {
